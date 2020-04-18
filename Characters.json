@@ -1,0 +1,95 @@
+﻿[
+    {
+        "Id": "1",
+        "CharacterName": "能天使",
+        "Rarity": 6,
+        "OperatorType": "狙击",
+        "Portraits": [
+            {
+                "Id": "1",
+                "Name": "原始",
+                "Chance": 10,
+                "ImgPath": "Imgs/文件名.png",
+                "EntryDialogue": "这是登场台词",
+                "IdleDialogue": [
+                    "这是闲置台词1",
+                    "这是闲置台词2",
+                    "这是闲置台词3",
+                    "可以无限添加……"
+                ]
+            },
+            {
+                "Id": "2",
+                "Name": "KFC外卖",
+                "Chance": 5,
+                "ImgPath": "Imgs/文件名.png",
+                "EntryDialogue": "这是登场台词",
+                "IdleDialogue": [
+                    "这是闲置台词1",
+                    "这是闲置台词2",
+                    "这是闲置台词3",
+                    "可以无限添加……"
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2",
+        "CharacterName": "安塞尔",
+        "Rarity": 4,
+        "OperatorType": "医疗",
+        "Portraits": [
+            {
+                "Id": "1",
+                "Name": "原始",
+                "Chance": 10,
+                "ImgPath": "Imgs/文件名.png",
+                "EntryDialogue": {
+                    "Audio": "Audios/台词音频.wav",
+                    "Text": "这是登场台词"
+                },
+                "IdleDialogue": [
+                    {
+                        "Audio": "Audios/台词音频.wav",
+                        "Text": "这是闲置台词1"
+                    },
+                    {
+                        "Audio": "Audios/台词音频.wav",
+                        "Text": "这是闲置台词2"
+                    },
+                    {
+                        "Audio": "Audios/台词音频.wav",
+                        "Text": "这是闲置台词3"
+                    },
+                    {
+                        "Text": "可以无限添加，没有对应音频就把Audio元素删掉"
+                    }
+                ]
+            },
+            {
+                "Id": "2",
+                "Name": "泳装",
+                "Chance": 5,
+                "ImgPath": "Imgs/文件名.png",
+                "EntryDialogue": "这是登场台词"
+            }
+        ]
+    },
+    {
+        "Id": "3",
+        "CharacterName": "闪灵",
+        "Rarity": 6,
+        "OperatorType": "医疗",
+        "Portraits": [
+            {
+                "Id": "1",
+                "Name": "原始",
+                "Chance": 10,
+                "ImgPath": "Imgs/文件名.png"
+            }
+        ]
+    },
+    {
+
+    }
+]
